@@ -1,0 +1,25 @@
+section{
+    padding: 60px 0;
+}
+
+body, html {
+    background-color: #1d3770
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.lh-5 {
+    line-height: 4rem;
+}
+.font-large {
+    font-size: 4rem
+}
+
+.logo {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
